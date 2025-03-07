@@ -1,0 +1,10 @@
+Mi Historia Academicacon --amend se pueden agregar cambios al commit sin la necesidad de hacer un nuevo commit alterando el commit pasado y por tanto la version pasada
+
+Kinder Niños Heroes(Mto.Fernando)
+Fernando Montes de Oca (Mta.Olga)
+Escuela Secundaria Tecnica #63 (Mstro.Manuel)
+Cetis108
+Universidad Autonoma de Occidente
+
+con --amend se pueden agregar cambios al commit sin la necesidad de hacer un nuevo commit alterando el commit pasado y por tanto la version pasada.
+
